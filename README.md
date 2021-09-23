@@ -1,4 +1,4 @@
-# Suicide_rate_analysis_India
+# Suicide_rate_analysis_India 
 ### Analysing Suicide rate in India over the period 2001-2012
 #### “SUICIDE DOESN’T END THE CHANCES OF LIFE GETTING WORSE, IT ELIMINATES THE POSSIBILITY OF IT EVER GETTING ANY BETTER.” – UNKNOWN
 Each suicide is a personal tragedy that prematurely takes the life of an individual and has a continuing ripple effect, dramatically affecting the lives of families, friends and communities. Every year, more than 1,00,000 people commit suicide in our country. There are various causes of suicides like professional/career problems, sense of isolation, abuse, violence, family problems, mental disorders, addiction to alcohol, financial loss, chronic pain etc.
@@ -6,6 +6,7 @@ Each suicide is a personal tragedy that prematurely takes the life of an individ
 The effects of suicidal  behaviour  or  completed  suicide on friends and family members are often disturbing. Individuals who lose a loved one to suicide are more at risk for becoming preoccupied with the reason for the suicide, wondering if  they could have prevented it. So as a part of this Analysis we are analysing the factors of suicide just to understand the ways to prevent it.
 
 #### Dataset Source: Kaggle
+#### Source link : [suicides in India](https://www.kaggle.com/rajanand/suicides-in-india)
 ### Libraries used:
   * numpy
   * pandas
